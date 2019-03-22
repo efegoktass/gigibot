@@ -1,0 +1,202 @@
+01:08 PM [<#508339097086197770>] (396666992045719552)Fornaks: Sen yönetici olduğun için
+01:08 PM [<#508339097086197770>] (396666992045719552)Fornaks: Video felan yollayabiliyorsun
+03:21 PM [<#508339097086197770>] (396666992045719552)Fornaks: Kanka duyuru komutunun raw datasını atarmısın?
+04:29 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: duyuru ?
+04:29 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: dur bakam
+04:29 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: var mıydı hatıramyıorum şunu bitiriyim
+04:29 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: dönücem sana
+04:30 PM [<#508339097086197770>] (396666992045719552)Fornaks: tamam
+04:51 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: knk
+04:51 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: yok bende o
+04:51 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: !pf2
+04:51 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: !yardım
+04:52 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: knk bana müzik şeyini atar mısın
+04:53 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: şey var birde sunucuya biri gelince mesaj yazıyo
+04:53 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: bi deniyim
+04:53 PM [<#508339097086197770>] (396666992045719552)Fornaks: o event bende yok ama müziği atayım dur
+04:53 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: tamam
+04:53 PM [<#508339097086197770>] (396666992045719552)Fornaks: linksiz çalışmıyor ya
+04:53 PM [<#508339097086197770>] (396666992045719552)Fornaks: bulamadım
+04:53 PM [<#508339097086197770>] (396666992045719552)Fornaks: {
+  "name": "oynat",
+  "permissions": "VIEW_CHANNEL",
+  "restriction": "1",
+  "_id": "AXPkW",
+  "actions": [
+    {
+      "condition": "0",
+      "comparison": "0",
+      "value": "1",
+      "iftrue": "3",
+      "iftrueVal": "2",
+      "iffalse": "0",
+      "iffalseVal": "2",
+      "name": "Check Parameters"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "**${member} Bir Video Url Si Girmelisin ⛔**",
+      "storage": "0",
+      "varName2": "",
+      "name": "Send Message"
+    },
+    {
+      "name": "End Action Sequence"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "name": "Join Voice Channel"
+    },
+    {
+      "info": "0",
+      "infoIndex": "1",
+      "storage": "1",
+      "varName": "video",
+      "name": "Store Command Params"
+    },
+    {
+      "url": "${tempVars(\"video\")}",
+      "seek": "0",
+      "volume": "",
+      "passes": "1",
+      "bitrate": "",
+      "type": "0",
+      "name": "Play YouTube Video"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "```\nSıraya Eklendi Sırada Bir Şarkı Yoksa Şarkı Hemen Çalıcaktır... \n```",
+      "storage": "0",
+      "varName2": "",
+      "name": "Send Message"
+    }
+  ]
+}
+04:53 PM [<#508339097086197770>] (396666992045719552)Fornaks: aa olmazki
+04:53 PM [<#508339097086197770>] (396666992045719552)Fornaks: bekle
+04:53 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: eventi beğenirsen atarım dur deniyim
+04:54 PM [<#508339097086197770>] (396666992045719552)Fornaks: https://paste.tresmos.xyz/paste.php?id=248
+04:55 PM [<#508339097086197770>] (418778187150000138)Fiyu: Cant Read
+04:55 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: knk bu
+04:55 PM [<#508339097086197770>] (396666992045719552)Fornaks: Kanka bu ayarlanabiliyormu peki
+04:55 PM [<#508339097086197770>] (396666992045719552)Fornaks: on off gibi
+04:55 PM [<#508339097086197770>] (396666992045719552)Fornaks: veya kullanıcı mesajı ayarlayabiliyormu?
+04:55 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: oluyor knk
+04:56 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: kapatma açma onu bilmiyorum
+04:56 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: düpfkpğkwd
+04:56 PM [<#508339097086197770>] (396666992045719552)Fornaks: 😄
+04:56 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: ferçek mi
+04:56 PM [<#508339097086197770>] (396666992045719552)Fornaks: Değil lan :Dapısdj oğkpasd
+04:56 PM [<#508339097086197770>] (396666992045719552)Fornaks: sende birşeyler yap
+04:57 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: nası
+04:57 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: -trumpweet selam bebek mugo ben kelebek
+04:58 PM [<#508339097086197770>] (396666992045719552)Fornaks: weet değil
+04:58 PM [<#508339097086197770>] (396666992045719552)Fornaks: tweet 😄
+04:58 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: aqfaspofjasopfg
+04:58 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: çok iyi
+04:58 PM [<#508339097086197770>] (396666992045719552)Fornaks: eyw 😄
+04:58 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: !oynat
+04:59 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: !oynat https://www.youtube.com/watch?v=up269McwqDM&t=0s&index=2&list=PLo5j4JdspnktT28hye6Rjd3nW1pNLxi5j
+04:59 PM [<#508339097086197770>] (396666992045719552)Fornaks: oynat zaten
+04:59 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: !oynat https://www.youtube.com/watch?v=up269McwqDM&t=0s&index=2&list=PLo5j4JdspnktT28hye6Rjd3nW1pNLxi5j
+04:59 PM [<#508339097086197770>] (396666992045719552)Fornaks: olabilir
+04:59 PM [<#508339097086197770>] (396666992045719552)Fornaks: dur bakayım
+04:59 PM [<#508339097086197770>] (396666992045719552)Fornaks: herokudan
+04:59 PM [<#508339097086197770>] (396666992045719552)Fornaks: 724 yaptım
+04:59 PM [<#508339097086197770>] (396666992045719552)Fornaks: aynen
+05:00 PM [<#508339097086197770>] (396666992045719552)Fornaks: ama komutlar
+05:00 PM [<#508339097086197770>] (396666992045719552)Fornaks: çalışmadı
+05:00 PM [<#508339097086197770>] (396666992045719552)Fornaks: eyw:
+05:01 PM [<#508339097086197770>] (396666992045719552)Fornaks: Cant Read
+05:01 PM [<#508339097086197770>] (396666992045719552)Fornaks: Cant Read
+05:01 PM [<#508339097086197770>] (396666992045719552)Fornaks: önemli değil
+05:01 PM [<#508339097086197770>] (396666992045719552)Fornaks: bas
+05:01 PM [<#508339097086197770>] (396666992045719552)Fornaks: indir actionsları
+05:01 PM [<#508339097086197770>] (396666992045719552)Fornaks: modlar
+05:01 PM [<#508339097086197770>] (396666992045719552)Fornaks: belki çalışır
+05:01 PM [<#508339097086197770>] (396666992045719552)Fornaks: geçerlileri değiştir
+05:02 PM [<#508339097086197770>] (396666992045719552)Fornaks: klasörün içindekileri
+05:02 PM [<#508339097086197770>] (396666992045719552)Fornaks: actionsun içine
+05:02 PM [<#508339097086197770>] (396666992045719552)Fornaks: at
+05:02 PM [<#508339097086197770>] (396666992045719552)Fornaks: geçerli dosyaları değiştire bas
+05:02 PM [<#508339097086197770>] (396666992045719552)Fornaks: çalışmamasının nedeni o
+05:02 PM [<#508339097086197770>] (396666992045719552)Fornaks: steam
+05:02 PM [<#508339097086197770>] (396666992045719552)Fornaks: steamapps
+05:02 PM [<#508339097086197770>] (396666992045719552)Fornaks: common
+05:03 PM [<#508339097086197770>] (396666992045719552)Fornaks: 😄
+05:03 PM [<#508339097086197770>] (396666992045719552)Fornaks: klasörün
+05:03 PM [<#508339097086197770>] (396666992045719552)Fornaks: içindekliri
+05:03 PM [<#508339097086197770>] (396666992045719552)Fornaks: içine
+05:03 PM [<#508339097086197770>] (396666992045719552)Fornaks: at
+05:03 PM [<#508339097086197770>] (396666992045719552)Fornaks: hiçbirşeyi silme
+05:03 PM [<#508339097086197770>] (396666992045719552)Fornaks: olsun
+05:03 PM [<#508339097086197770>] (396666992045719552)Fornaks: hiçbirşey silme
+05:04 PM [<#508339097086197770>] (396666992045719552)Fornaks: aa komut bozulmuş
+05:04 PM [<#508339097086197770>] (396666992045719552)Fornaks: aynen
+05:04 PM [<#508339097086197770>] (396666992045719552)Fornaks: değiştir
+05:04 PM [<#508339097086197770>] (396666992045719552)Fornaks: al işte 😄
+05:04 PM [<#508339097086197770>] (396666992045719552)Fornaks: ctrl z
+05:04 PM [<#508339097086197770>] (396666992045719552)Fornaks: ctrl z
+05:04 PM [<#508339097086197770>] (396666992045719552)Fornaks: aynen
+05:04 PM [<#508339097086197770>] (396666992045719552)Fornaks: aldımı?
+05:04 PM [<#508339097086197770>] (396666992045719552)Fornaks: bu bilgisayar
+05:05 PM [<#508339097086197770>] (396666992045719552)Fornaks: bu bilgisayar
+05:05 PM [<#508339097086197770>] (396666992045719552)Fornaks: bu bilgisayara gel
+05:05 PM [<#508339097086197770>] (396666992045719552)Fornaks: masaüsti
+05:05 PM [<#508339097086197770>] (396666992045719552)Fornaks: oradan kolayca
+05:05 PM [<#508339097086197770>] (396666992045719552)Fornaks: silersin
+05:05 PM [<#508339097086197770>] (396666992045719552)Fornaks: tamamdır
+05:05 PM [<#508339097086197770>] (396666992045719552)Fornaks: Var
+05:05 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: !pf2
+05:05 PM [<#508339097086197770>] (396666992045719552)Fornaks: programı kapat
+05:05 PM [<#508339097086197770>] (396666992045719552)Fornaks: aç
+05:06 PM [<#508339097086197770>] (396666992045719552)Fornaks: bilmiyorum ki
+05:06 PM [<#508339097086197770>] (396666992045719552)Fornaks: korkutayımmı seni?
+05:06 PM [<#508339097086197770>] (396666992045719552)Fornaks: asdpısajd
+05:07 PM [<#508339097086197770>] (396666992045719552)Fornaks: yok kanka
+05:07 PM [<#508339097086197770>] (396666992045719552)Fornaks: ekstra komut
+05:07 PM [<#508339097086197770>] (396666992045719552)Fornaks: ekran açsana özelden
+05:10 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: !pf2
+05:10 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: !oynat
+05:10 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: !oynat https://www.youtube.com/watch?v=up269McwqDM&t=0s&index=2&list=PLo5j4JdspnktT28hye6Rjd3nW1pNLxi5j
+05:11 PM [<#508339097086197770>] (396666992045719552)Fornaks: Cant Read
+05:13 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: !oynat https://www.youtube.com/watch?v=up269McwqDM&t=0s&index=2&list=PLo5j4JdspnktT28hye6Rjd3nW1pNLxi5j
+05:14 PM [<#508339097086197770>] (396666992045719552)Fornaks: Cant Read
+05:15 PM [<#508339097086197770>] (396666992045719552)Fornaks: https://paste.tresmos.xyz/paste.php?id=249
+05:16 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: <@540264467494338570>
+05:16 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: sa
+05:17 PM [<#508339097086197770>] (396666992045719552)Fornaks: Cant Read
+05:18 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: !öp <@540264467494338570>
+05:19 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: !öp <@540264467494338570>
+05:19 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: !pf2
+05:19 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: !öp <@540264467494338570>
+05:20 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: !selonungötü
+05:20 PM [<#508339097086197770>] (396666992045719552)Fornaks: https://nekos.life/api/v2/img/kiss
+05:24 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: !oynuyor
+05:26 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: !alağzına <@540992929683079170>
+05:26 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: !dolar
+05:26 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: !köpeksev
+05:26 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: !espri
+05:27 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: !salla
+05:27 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: sa
+05:27 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: selam amk
+05:27 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: amk
+05:28 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: !kaçcm
+05:28 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: !yumrukat <@540992929683079170>
+05:29 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: !konuştur  !seks <@540264467494338570>
+05:29 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: !seks <@540264467494338570>
+05:29 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: !temizle 100
+05:30 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: !yak
+05:30 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: !fivem
+05:30 PM [<#555034865373020181>] (396666992045719552)Fornaks: Makas
+05:30 PM [<#555034864441884712>] (334031702617882636)TRmumu || Yunus: kağıt
+05:30 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: !zarat
+05:31 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: !zarat 5
+05:32 PM [<#508339097086197770>] (396666992045719552)Fornaks: !temizle 123123
+05:32 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: !oynuyor
+05:34 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: !oynuyor
+05:37 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: !oynat https://www.youtube.com/watch?v=up269McwqDM&t=0s&index=2&list=PLo5j4JdspnktT28hye6Rjd3nW1pNLxi5j
+05:44 PM [<#508339097086197770>] (334031702617882636)TRmumu || Yunus: !bot
